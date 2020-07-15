@@ -1,0 +1,22 @@
+{
+  "name": "nighty-night",
+  "version": "1.0.0",
+  "description": "A simple sleep function and command written in Javascript. ",
+  "main": "index.js",
+  "bin": {
+    "sleep": "sleep.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryc5/sleep.git"
+  },
+  "author": "Larry <larry.costigan5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larryc5/sleep/issues"
+  },
+  "homepage": "https://github.com/larryc5/sleep#readme"
+}
