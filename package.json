@@ -1,10 +1,11 @@
 {
   "name": "nighty-night",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple sleep function and command written in Javascript. ",
   "main": "index.js",
   "bin": {
-    "sleep": "sleep.js"
+    "sleep": "sleep.js",
+    "sleep-rand": "sleep-rand.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
